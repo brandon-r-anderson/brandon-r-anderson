@@ -1,8 +1,8 @@
 # Hi, I'm Brandon Anderson 👋
 
-**Aspiring Data Analyst | SQL • Power BI • Excel • Python**
+**Aspiring Data Engineer | SQL • Power BI • Excel • Python**
 
-I'm an aspiring data analyst with a background in biology who builds end-to-end analytics projects. My repositories focus on using SQL, Python, Power BI, and Excel to collect, clean, analyze, and visualize data.
+I'm an aspiring data engineer with a background in biology who builds end-to-end data pipeline projects. My repositories focus on using SQL, Python, Power BI, and Excel to collect, clean, analyze, and visualize data, though I've recently shifted to pipeline engineering.
 ---
 
 ## 📊 Technical Skills
@@ -15,7 +15,6 @@ I'm an aspiring data analyst with a background in biology who builds end-to-end 
 - Power BI
 - Excel
 - Power Query
-- DAX
 
 **Data Skills**
 - Data Cleaning
@@ -60,8 +59,9 @@ An Excel-based movie analytics project exploring what drives commercial and crit
 
 ## 🌱 Currently Learning
 
-- Advanced SQL optimization
-- Python for analytics automation
+- Advanced SQL and Database Building
+- Python Automation
+- REST APIs
 
 ---
 
@@ -69,9 +69,9 @@ An Excel-based movie analytics project exploring what drives commercial and crit
 
 I'm currently seeking entry-level opportunities in:
 
-- Data Analytics
-- Clinical Data Analytics
 - Data Engineering
+- Clinical Data Analytics
+- Data Data Analytics
 - Business Intelligence
 - Business Analysis
 
