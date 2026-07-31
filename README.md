@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Anderson 👋
 
-**Aspiring Data Engineer | SQL • Power BI • Excel • Python**
+**Aspiring Data Engineer | SQL • Python • Power BI • Excel**
 
 I'm an aspiring data engineer with a background in biology who builds end-to-end data pipeline projects. Most of my current repositories focus on using SQL, Python, Power BI, and Excel to collect, clean, analyze, and visualize data, though I've recently shifted to pipeline engineering.
 ---
