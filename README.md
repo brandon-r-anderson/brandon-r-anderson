@@ -59,7 +59,7 @@ An Excel-based movie analytics project exploring what drives commercial and crit
 
 ## 🌱 Currently Learning
 
-- Advanced SQL and Database Building
+- Database Building
 - Python Automation
 - REST APIs
 
@@ -71,8 +71,7 @@ I'm currently seeking entry-level opportunities in:
 
 - Data Engineering
 - Clinical Data Analytics
-- Data Data Analytics
-- Business Intelligence
+- Data Analytics
 - Business Analysis
 
 ---
