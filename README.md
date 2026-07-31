@@ -2,7 +2,7 @@
 
 **Aspiring Data Engineer | SQL • Power BI • Excel • Python**
 
-I'm an aspiring data engineer with a background in biology who builds end-to-end data pipeline projects. My repositories focus on using SQL, Python, Power BI, and Excel to collect, clean, analyze, and visualize data, though I've recently shifted to pipeline engineering.
+I'm an aspiring data engineer with a background in biology who builds end-to-end data pipeline projects. Most of my current repositories focus on using SQL, Python, Power BI, and Excel to collect, clean, analyze, and visualize data, though I've recently shifted to pipeline engineering.
 ---
 
 ## 📊 Technical Skills
